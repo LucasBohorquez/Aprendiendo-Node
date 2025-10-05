@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Aprendiendo node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBohorquez/Aprendiendo-Node.git"
+  },
+  "keywords": [
+    "curso",
+    "aprender",
+    "node"
+  ],
+  "author": "Lucas Bohorquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasBohorquez/Aprendiendo-Node/issues"
+  },
+  "homepage": "https://github.com/LucasBohorquez/Aprendiendo-Node#readme",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
